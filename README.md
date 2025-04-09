@@ -172,7 +172,7 @@ Full documentation is available at [https://lcqdocs.site](https://lcqdocs.site).
 
 - Website: [https://lcq.gg](https://lcq.gg)
 - Documentation: [https://lcqdocs.site](https://lcqdocs.site)
-- Twitter: [@LCQ_AI_](https://x.com/lcqdotgg)
+- Twitter: [@LCQDOTGG_](https://x.com/lcqdotgg)
 - GitHub: [https://github.com/LCQLabs](https://github.com/LCQLabs)
 - Email: hello@lcq.gg
 
