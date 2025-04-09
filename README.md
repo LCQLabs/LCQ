@@ -11,8 +11,7 @@
   <p>
     <a href="https://lcq.gg">Website</a> •
     <a href="https://lcqdocs.site">Documentation</a> •
-    <a href="https://discord.gg/lcq">Discord</a> •
-    <a href="https://x.com/lcq_AI">Twitter</a>
+    <a href="https://x.com/lcqdotgg">Twitter</a>
   </p>
   <p>
     <a href="https://github.com/LCQLabs/lcq/releases">
@@ -173,8 +172,7 @@ Full documentation is available at [https://lcqdocs.site](https://lcqdocs.site).
 
 - Website: [https://lcq.gg](https://lcq.gg)
 - Documentation: [https://lcqdocs.site](https://lcqdocs.site)
-- Discord: [https://discord.gg/lcqlabs](https://discord.gg/lcq)
-- Twitter: [@LCQ_AI_](https://x.com/lcq_AI)
+- Twitter: [@LCQ_AI_](https://x.com/lcqdotgg)
 - GitHub: [https://github.com/LCQLabs](https://github.com/LCQLabs)
 - Email: hello@lcq.gg
 
